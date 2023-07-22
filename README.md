@@ -1,13 +1,20 @@
 # Alarm-Clock
 This repository contains a simple alarm clock GUI application built using Python's Tkinter library. The alarm clock allows users to set a specific time for the alarm to trigger, and it plays a custom sound when the alarm time is reached.
+
 To run the Alarm Clock application, make sure you have the following installed:
+
 Python 3.x
+
 Tkinter library
+
 PIL library (Python Imaging Library)
+
 Pygame library
+
 **Installation**
 
 Clone the repository to your local machine:
+
 git clone https://github.com/malikamujahid/Alarm-Clock.git
 
 Install the required Python libraries using pip:
