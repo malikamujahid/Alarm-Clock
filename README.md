@@ -11,7 +11,7 @@ PIL library (Python Imaging Library)
 
 Pygame library
 
-##Installation
+## Installation
 
 Clone the repository to your local machine:
 
@@ -26,7 +26,7 @@ pip install pillow
 pip install pygame
 
 
-##Usage
+## Usage
 
 Run the 'alarm.py' script to launch the Alarm Clock GUI application:
 
@@ -42,7 +42,7 @@ To stop the alarm, click the "Deactivate" button.
 
 You can customize the Alarm Clock to suit your preferences:
 
-##Customization
+## Customization
 
 Replace the default alarm sound file ('Alarm Sound.mp3') with your own audio file in the 'music' directory.
 
