@@ -50,6 +50,6 @@ Modify the interface colors, fonts, or layout in 'alarm.py' to match your prefer
 
 Add additional functionality or features to enhance the Alarm Clock application.
 
-##Contributing
+## Contributing
 
 Contributions to the Alarm Clock project are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
